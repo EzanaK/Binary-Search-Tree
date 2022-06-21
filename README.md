@@ -1,2 +1,2 @@
 # Skills Practiced
-- Binary Search Trees
+- Binary search trees
